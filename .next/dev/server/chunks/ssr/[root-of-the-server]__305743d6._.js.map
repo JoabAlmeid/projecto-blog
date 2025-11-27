@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///home/soujo/%C3%81rea%20de%20Trabalho/Programming/Typescript/projecto-blog/src/app/page.tsx"],"sourcesContent":["import clsx from \"clsx\";\n\nexport default function HomePage() {\n  return (\n    <div>\n      <h1\n        className={clsx(\n          \"text-6xl\",\n          \"font-bold\",\n          \"text-blue-500\",\n          \"hover:text-blue-50\",\n          \"transition\",\n          \"duration-500\"\n        )}\n      >\n        Texto no meu h1\n      </h1>\n    </div>\n  );\n}\n"],"names":[],"mappings":";;;;;AAAA;;;AAEe,SAAS;IACtB,qBACE,8OAAC;kBACC,cAAA,8OAAC;YACC,WAAW,IAAA,gJAAI,EACb,YACA,aACA,iBACA,sBACA,cACA;sBAEH;;;;;;;;;;;AAKP"}}]
+}
